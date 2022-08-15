@@ -9,7 +9,7 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <img src={logo2} className="App-logo2" alt="logo" />
         <h1>
-          Comming soon...
+          Coming soon...
         </h1>
         <p>
           coriandrum org
