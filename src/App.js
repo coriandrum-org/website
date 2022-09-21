@@ -14,12 +14,20 @@ function App() {
         <p>
           coriandrum org
         </p>
+        <p>
+          coriandrum org
+        </p>
+        <p>
+          coriandrum org
+        </p>
+        <p>
+          coriandrum org
+        </p>
 
         <input
           type="password"
-          placeholder="escriba su password"
+          placeholder='escriba su contraseña'
           inputmode="numeric"
-
         />
 
       </header>
