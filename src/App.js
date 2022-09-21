@@ -12,8 +12,15 @@ function App() {
           Coming soon...
         </h1>
         <p>
-          coriandrum org test
+          coriandrum org
         </p>
+
+        <input
+          type="password"
+          placeholder="escriba su password"
+          inputmode="numeric"
+
+        />
 
       </header>
     </div>
